@@ -23,7 +23,7 @@ num= (G1*G2*G3*G4+G6*G2*G3*G4+G1*G2*G5+G6*G2*G5);
 den = (1+H1*G2*G3+H2*G1*G2*G3*G4+H2*G1*G2*G5);
 disp('Numerador'),disp(num);
 disp('Denomindador'),disp(den);
- 
+
 %disp('Funciones de transferencia:');
 %disp('G1:'), disp(G1);
 %disp('G2:'), disp(G2);
